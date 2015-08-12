@@ -415,6 +415,7 @@
 				3CA3074A1B7B037D00ED9A9A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3CA3074B1B7B037D00ED9A9A /* Build configuration list for PBXNativeTarget "NotesTests" */ = {
 			isa = XCConfigurationList;
@@ -423,6 +424,7 @@
 				3CA3074D1B7B037D00ED9A9A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
